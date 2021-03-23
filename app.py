@@ -30,7 +30,7 @@ def open_class(url, UN, passwd):
         driver.find_element_by_xpath("//button[@class='button-style']") .click()
         while True:
             get_time()
-            if TM == ftime:
+            if int(TM) == int(ftime):
                 break
 
 while True:
