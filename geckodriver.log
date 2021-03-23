@@ -1,0 +1,33 @@
+
+(firefox:323386): Gtk-WARNING **: 20:30:00.105: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:323449): Gtk-WARNING **: 20:30:01.455: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:323469): Gtk-WARNING **: 20:30:02.061: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:323386): GLib-GIO-WARNING **: 20:30:02.627: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:323541): Gtk-WARNING **: 20:30:03.579: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1616515203964	Marionette	INFO	Listening on port 33103
+1616515204039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616515204060	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: http://185.126.203.228/riazi-t-rahmati-8-12/?proto=true, line 507: TypeError: mobileLoginPageOpenAppNotificationElement is null
+1616515210384	Marionette	INFO	Stopped listening on port 33103
+
+(firefox:323634): Gtk-WARNING **: 20:30:19.040: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:323694): Gtk-WARNING **: 20:30:19.821: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:323714): Gtk-WARNING **: 20:30:19.994: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:323634): GLib-GIO-WARNING **: 20:30:20.440: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:323794): Gtk-WARNING **: 20:30:21.496: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+1616515221625	Marionette	INFO	Listening on port 44685
+1616515221706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616515221729	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: http://185.126.203.228/riazi-t-rahmati-8-12/?proto=true, line 507: TypeError: mobileLoginPageOpenAppNotificationElement is null
+1616515233713	Marionette	INFO	Stopped listening on port 44685

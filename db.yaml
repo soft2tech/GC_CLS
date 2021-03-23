@@ -1,0 +1,38 @@
+# Enter Your UserName & PassWord With one space front of below fields
+login:
+  username:
+  password:
+
+# Enter url of each day & time class !!!! Enter "NOTH" If you dont have any class !!!!
+# Eter url With one space front of below fields
+
+sat:
+  1st:
+  2nd:
+  3rd:
+  4th:
+  5th:
+sun:
+  1st:
+  2nd:
+  3rd:
+  4th:
+  5th:
+mon:
+  1st:
+  2nd:
+  3rd:
+  4th:
+  5th:
+tue:
+  1st:
+  2nd:
+  3rd:
+  4th:
+  5th:
+wed:
+  1st:
+  2nd:
+  3rd:
+  4th:
+  5th:
