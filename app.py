@@ -60,8 +60,11 @@ while True:
             url = dic['5th']
             open_class(url, ID, PD)
         else:
-            print("You Dont Have any class yet")
-            exit()
+            if 758 <= int(TM) <= 1420:
+                pass
+            else:
+                print("You Dont Have Any Class Yet")
+                exit()
     elif WD == "Sun":
         dic = DIC['sun']
         if 758 <= int(TM) <= 858:
@@ -85,8 +88,11 @@ while True:
             url = dic['5th']
             open_class(url, ID, PD)
         else:
-            print("You Dont Have any class yet")
-            exit()
+            if 758 <= int(TM) <= 1420:
+                pass
+            else:
+                print("You Dont Have Any Class Yet")
+                exit()
     elif WD == "Mon":
         dic = DIC['mon']
         if 758 <= int(TM) <= 858:
@@ -110,8 +116,11 @@ while True:
             url = dic['5th']
             open_class(url, ID, PD)
         else:
-            print("You Dont Have any class yet")
-            exit()
+            if 758 <= int(TM) <= 1420:
+                pass
+            else:
+                print("You Dont Have Any Class Yet")
+                exit()
     elif WD == "Tue":
         dic = DIC['tue']
         if 758 <= int(TM) <= 858:
@@ -135,8 +144,11 @@ while True:
             url = dic['5th']
             open_class(url, ID, PD)
         else:
-            print("You Dont Have any class yet")
-            exit()
+            if 758 <= int(TM) <= 1420:
+                pass
+            else:
+                print("You Dont Have Any Class Yet")
+                exit()
     elif WD == "Wed":
         dic = DIC['wed']
         if 758 <= int(TM) <= 858:
