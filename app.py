@@ -32,6 +32,8 @@ def open_class(url, UN, passwd):
             get_time()
             if int(TM) == int(ftime):
                 break
+            else:
+                pass
 
 while True:
     get_time()
@@ -158,8 +160,11 @@ while True:
             url = dic['5th']
             open_class(url, ID, PD)
         else:
-            print("You Dont Have any class yet")
-            exit()
+            if 758 <= int(TM) <= 1420:
+                pass
+            else:
+                print("You Dont Have Any Class Yet")
+                exit()
     else:
         print("Happy Holyday to you")
         exit()

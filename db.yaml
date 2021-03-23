@@ -1,7 +1,7 @@
 # Enter Your UserName & PassWord With one space front of below fields
 login:
-  username:
-  password:
+  username: 
+  password: 
 
 # Enter url of each day & time class !!!! Enter "NOTH" If you dont have any class !!!!
 # Eter url With one space front of below fields

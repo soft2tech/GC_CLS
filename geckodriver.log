@@ -31,3 +31,20 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1616515221729	Marionette	ERROR	[15] No reply from Marionette:Register
 JavaScript error: http://185.126.203.228/riazi-t-rahmati-8-12/?proto=true, line 507: TypeError: mobileLoginPageOpenAppNotificationElement is null
 1616515233713	Marionette	INFO	Stopped listening on port 44685
+
+(firefox:359664): Gtk-WARNING **: 00:21:11.120: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:359757): Gtk-WARNING **: 00:21:15.320: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(/usr/lib/firefox/firefox:359783): Gtk-WARNING **: 00:21:15.704: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:359664): GLib-GIO-WARNING **: 00:21:17.120: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616529078531	Marionette	INFO	Listening on port 35985
+1616529078628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616529078677	Marionette	ERROR	[15] No reply from Marionette:Register
+
+(/usr/lib/firefox/firefox:359852): Gtk-WARNING **: 00:21:18.730: Theme parsing error: gtk.css:73:46: The style property GtkScrolledWindow:scrollbars-within-bevel is deprecated and shouldn't be used anymore. It will be removed in a future version
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: http://185.126.203.228/fizik-t-salamollahi-8/?proto=true, line 507: TypeError: mobileLoginPageOpenAppNotificationElement is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
