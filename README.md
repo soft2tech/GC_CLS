@@ -1,6 +1,6 @@
 # GC_CLS
-# this is an python prgram for auto open and login with your plan you wrote first  
-
+# this is a python prgram for auto open and login with your plan you wrote first  
+# !!! For Download Tap code tap download zip!!!
 # Install
 ## **Windows** Users:
 ### 1.Install **Python3** ( Download From [Here](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe) )
