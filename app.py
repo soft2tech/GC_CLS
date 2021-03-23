@@ -28,6 +28,7 @@ def open_class(url, UN, passwd):
         driver.find_element_by_id("pwd").send_keys(str(passwd))
         driver.find_element_by_xpath("//input[@id='login-button']") .click()
         driver.find_element_by_xpath("//button[@class='button-style']") .click()
+        exit()
 get_time()
 while True:
     if WD == "Sat":
