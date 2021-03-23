@@ -7,8 +7,8 @@
 ## **check Add Python To Path**
 Reference-style: 
 ![alt text](https://datatofish.com/wp-content/uploads/2018/10/0001_add_Python_to_Path.png "Logo Title Text 1")
-### Install firefox and firefox selenium driver for that(Download from [here](https://github.com/mozilla/geckodriver/releases/download/v0.29.0/geckodriver-v0.29.0-win64.zip))
-## 2.Install **selenium**
+## 2.Install firefox and firefox selenium driver for that(Download from [here](https://github.com/mozilla/geckodriver/releases/download/v0.29.0/geckodriver-v0.29.0-win64.zip))
+## 3.Install **selenium**
 ## run blew code on command prompt
 ```
 pip install selenium
