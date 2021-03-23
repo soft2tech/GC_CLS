@@ -40,3 +40,5 @@ bash install.sh
 ## TO USE
 ### python /opt/GC_CLS/app.py
 ### Launcher Is comming soon
+
+# Who Am I: I'm Ermia from [Darolfonoon](http://darolfonoon.sch.ir) school and also a deveoper 
