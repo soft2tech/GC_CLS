@@ -45,4 +45,8 @@ python app.py
 ```
 ### Launcher Is comming soon
 
-# Who Am I: I'm Ermia from TuxTech [Community]()
+### Who Am I: I'm Ermia from TuxTech [Community]()
+#### Email: ermia1303@gmail.com
+#### IRC Channel To Chat:
+##### Server: freenode
+##### Channel: #GeekyChunk
