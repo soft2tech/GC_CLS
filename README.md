@@ -18,14 +18,15 @@ Reference-style:
 ```
 pip install selenium
 ```
-### download and extract our program, go to this pogram folder
+
 ## To Setup
+### download our app from [here](https://github.com/GeekyChunk/GC_CLS/archive/refs/heads/main.zip) and extract Zip File, go to extracted folder
 ### open db.yaml with notepad write your data e.g.
 #### Username and pass
 #### in each day each time write class url
 
 ## TO use
-### hold SHIFT and rightclick, tap on open command prompt, run blew code
+### hold SHIFT and rightclick, tap on open command prompt then run blew code
 ```
 python app.py
 ```
