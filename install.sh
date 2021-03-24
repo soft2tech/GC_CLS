@@ -25,5 +25,4 @@ sudo cp app.py /opt/GC_CLS/
 
 sudo cp db.yaml /opt/GC_CLS
 
-
 sudo gedit /opt/GC_CLS/db.yaml
