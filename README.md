@@ -44,9 +44,16 @@ cd ~/GC_CLS
 python app.py
 ```
 ### Launcher Is comming soon
+# TODO
+- [ ] add timer for No class
+- [ ] add GUI
 
+
+#
 ### Who Am I: I'm Ermia from TuxTech [Community]()
-#### Email: ermia1303@gmail.com
-#### IRC Channel To Chat:
+#
+##### Email: ermia1303@gmail.com
+#
 ##### Server: freenode
+#
 ##### Channel: #GeekyChunk
