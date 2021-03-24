@@ -33,12 +33,15 @@ python app.py
 ## Linux Users:
 ### Run blew code
 ```
-git clone https://github.com/GeekyChunk/GC_CLS.git
+git clone https://github.com/GeekyChunk/GC_CLS.git ~/GC_CLS
 cd GC_CLS/
 bash install.sh
 ```
 ## TO USE
-### python /opt/GC_CLS/app.py
+``` 
+cd Launcher Is comming soon
+python app.py
+```
 ### Launcher Is comming soon
 
 # Who Am I: I'm Ermia from TuxTech [Community]()
