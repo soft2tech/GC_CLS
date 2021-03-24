@@ -39,7 +39,7 @@ bash install.sh
 ```
 ## TO USE
 ``` 
-cd Launcher Is comming soon
+cd ~/GC_CLS
 python app.py
 ```
 ### Launcher Is comming soon
